@@ -48,7 +48,6 @@ An online code compiler that supports various languages:
 
 ## 📈 GitHub Stats  
 
-![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ku28&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ku28&layout=compact&theme=radical)  
 
 ---
