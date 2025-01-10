@@ -1,15 +1,15 @@
 # Hi there! 👋 I'm Kushagra Juneja  
 
-🎓 **A 3rd-year Computer Science Engineering Student**  
-💻 **React & Next.js Developer | Backend Engineer in Training | Focused on Scalable & Modern Solutions**  
-📚 Passionate about building web applications.  
+- **A 3rd-year Computer Science Engineering Student**  
+- **React & Next.js Developer | Backend Engineer in Training | Focused on Scalable & Modern Solutions**  
+- Passionate about building web applications.  
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **MediConnect** - A platform for connecting patients and doctors.  
-- 🌱 Skilled in modern web technologies like **Next.js**, **React.js**, **PostgreSQL**, and **JWT authentication**.   
-- ⚡ Experienced in project management using **Jira**, focusing on effective collaboration and agile methodologies.
+- Currently working on **MediConnect** - A platform for connecting patients and doctors.  
+- Skilled in modern web technologies like **Next.js**, **React.js**, **PostgreSQL**, and **JWT authentication**.   
+- Experienced in project management using **Jira**, focusing on effective collaboration and agile methodologies.
 
 ---
 
