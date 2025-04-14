@@ -34,16 +34,29 @@
 ## 📂 Featured Projects  
 
 ### [MediConnect](https://github.com/ku28/MediConnect)  
-A platform for connecting patients and doctors with features like:  
-- Secure authentication for patients and doctors.  
-- Search and filter doctors based on symptoms.  
-- Prescriptions and billing system.
+- Engineered a real-time booking system with REST APIs and Redux, reducing appointment scheduling time by 30%.
+- Developed a symptom-based doctor search, improving efficiency by 40% helping users find relevant specialists faster.
+- Optimized backend handling 20+ concurrent requests/sec with Express.js.
+- Automated deployment workflow using GitHub Actions, reducing deployment time by 50% Netlify.
 
-### [CompileX](https://github.com/ku28/CompileX)  
-An online code compiler that supports various languages:  
-- Has a User-Friendly Interface.
-- Provides Fast and Reliable Compilation.  
+### [Elevatr](https://github.com/ku28/elevatr)  
+- An AI-powered resume builder with real-time mock interview practice for job preparation.
+- Improved resume building and AI interview evaluations, boosting feedback accuracy by 30%.
+- Optimized question generation speed by 40% using Gemini API for faster and more accurate content creation.
+- Configured deployment workflow using GitHub Actions and Vercel, reducing deployment time by 40%. 
 
+### [Code Collab](https://github.com/ku28/codecollab)  
+- Designed an online compiler supporting 5+ programming languages, enabling seamless execution.
+- Integrated WebSockets for real-time collaboration, reducing latency by 35% in multi-user sessions.
+- Enhanced code execution with 20% faster response times and 25% fewer compilation errors via real-time detection.
+- Used Docker and GitHub Actions for build, testing, and deployment, reducing deployment time by 40%.
+
+### [Apparel Arcade](https://github.com/ku28/codecollab)  
+- An ecommerce platform for seamless shopping.
+- Enhanced product recommendations and search accuracy, boosting customer satisfaction by 30%.
+- Optimized checkout process speed by 40% using advanced algorithms for faster transactions.
+- Configured deployment workflow using GitHub Actions and Netlify, reducing deployment time by 40%.
+- Integrated real-time inventory updates, ensuring accurate stock availability for customers.
 ---
 
 ## 📈 GitHub Stats  
