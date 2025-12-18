@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kushagra Juneja  
 
-- **A 3rd-year Computer Science Engineering Student**  
+- **A Computer Science Engineering Graduate**  
 - **React & Next.js Developer | Backend Engineer in Training | Focused on Scalable & Modern Solutions**  
 - Passionate about building web applications.  
 
