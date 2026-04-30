@@ -52,7 +52,7 @@ I build production-ready applications with a strong focus on performance, mainta
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,electron,postgres,mongodb,prisma,supabase,java,cpp,py,docker,git,github,vercel,netlify,styledcomponents&perline=10" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,electron,postgres,mongodb,prisma,supabase,java,cpp,py,docker,git,github,vercel,aws,googlecloud&perline=10" alt="Tech stack" />
   </a>
 </p>
 
