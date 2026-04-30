@@ -1,75 +1,121 @@
-# Hi there! 👋 I'm Kushagra Juneja  
+<div align="center">
 
-- **A Computer Science Engineering Graduate**  
-- **React & Next.js Developer | Backend Engineer in Training | Focused on Scalable & Modern Solutions**  
-- Passionate about building web applications.  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=00E7FF&center=true&vCenter=true&width=1000&lines=Kushagra+Juneja;Full-Stack+Developer;Building+Modern+Web+%26+Desktop+Apps;React+%7C+Next.js+%7C+Electron+%7C+Node.js)](https://git.io/typing-svg)
 
----
+<img src="https://komarev.com/ghpvc/?username=ku28&label=Profile%20Views&color=fe428e&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/ku28?style=for-the-badge&color=00e7ff&labelColor=141321&logo=github&logoColor=white&label=Followers" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=for-the-badge&labelColor=14532d" alt="Open to opportunities" />
 
-## 🚀 About Me  
-- Currently working on **MediConnect** - A platform for connecting patients and doctors.  
-- Skilled in modern web technologies like **Next.js**, **React.js**, **PostgreSQL**, and **JWT authentication**.   
-- Experienced in project management using **Jira**, focusing on effective collaboration and agile methodologies.
+<p>
+  <a href="https://kushagrajuneja.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-kushagrajuneja.dev-141321?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/kush-juneja/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kushagra%20Juneja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kushagrajuneja7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kushagrajuneja7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ku28/MyPortfolio">
+    <img src="https://img.shields.io/badge/Portfolio%20Source-MyPortfolio-141321?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source" />
+  </a>
+</p>
 
----
+</div>
 
-## 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-</p>  
+## `developer.json`
 
----
+```ts
+const kushagra = {
+  name: "Kushagra Juneja",
+  role: "Full-Stack Developer",
+  focus: ["Web Apps", "Desktop Apps", "Scalable Systems"],
+  stack: ["React", "Next.js", "TypeScript", "Node.js", "Electron"],
+  portfolio: {
+    ui: ["React", "TypeScript", "Styled Components"],
+    backend: ["Express", "Nodemailer"],
+    extras: ["Vercel Analytics", "reCAPTCHA"],
+  },
+  strengths: ["Clean architecture", "Secure auth", "Performance", "Real-world UX"],
+  availableForOpportunities: true,
+};
+```
 
-## 📂 Featured Projects  
+I build production-ready applications with a strong focus on performance, maintainability, and real-world usability. My work spans full-stack web platforms, desktop products, analytics dashboards, secure authentication flows, and collaborative developer tooling.
 
-### [MediConnect](https://github.com/ku28/MediConnect)  
-- Engineered a real-time booking system with REST APIs and Redux, reducing appointment scheduling time by 30%.
-- Developed a symptom-based doctor search, improving efficiency by 40% helping users find relevant specialists faster.
-- Optimized backend handling 20+ concurrent requests/sec with Express.js.
-- Automated deployment workflow using GitHub Actions, reducing deployment time by 50% Netlify.
+- I design modern interfaces with React, Next.js, TypeScript, and Styled Components.
+- I ship backend features with Node.js, Express, PostgreSQL, MongoDB, Prisma, and Supabase.
+- I enjoy building products that solve real problems, not just demo screens.
+- I am open to frontend and full-stack opportunities.
 
-### [Elevatr](https://github.com/ku28/elevatr)  
-- An AI-powered resume builder with real-time mock interview practice for job preparation.
-- Improved resume building and AI interview evaluations, boosting feedback accuracy by 30%.
-- Optimized question generation speed by 40% using Gemini API for faster and more accurate content creation.
-- Configured deployment workflow using GitHub Actions and Vercel, reducing deployment time by 40%. 
+## Tech Stack
 
-### [Code Collab](https://github.com/ku28/codecollab)  
-- Designed an online compiler supporting 5+ programming languages, enabling seamless execution.
-- Integrated WebSockets for real-time collaboration, reducing latency by 35% in multi-user sessions.
-- Enhanced code execution with 20% faster response times and 25% fewer compilation errors via real-time detection.
-- Used Docker and GitHub Actions for build, testing, and deployment, reducing deployment time by 40%.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,electron,postgres,mongodb,prisma,supabase,java,cpp,py,docker,git,github,vercel,netlify,styledcomponents&perline=10" alt="Tech stack" />
+  </a>
+</p>
 
-### [Apparel Arcade](https://github.com/ku28/codecollab)  
-- An ecommerce platform for seamless shopping.
-- Enhanced product recommendations and search accuracy, boosting customer satisfaction by 30%.
-- Optimized checkout process speed by 40% using advanced algorithms for faster transactions.
-- Configured deployment workflow using GitHub Actions and Netlify, reducing deployment time by 40%.
-- Integrated real-time inventory updates, ensuring accurate stock availability for customers.
----
+## Featured Build
 
-## 📈 GitHub Stats  
+### [ERP Flow Studios](https://erpflowstudios.com/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ku28&layout=compact&theme=radical)  
+- Production-grade desktop ERP platform built with Electron and React.
+- JWT authentication and role-based access powered by Supabase.
+- Modular workflows, real-time dashboards, analytics, and reporting.
+- Windows auto-update delivery configured with NSIS.
 
----
+## Project Highlights
 
-## 📫 Connect with Me  
+<p align="center">
+  <a href="https://github.com/ku28/MediConnect">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ku28&repo=MediConnect&theme=radical&hide_border=true" alt="MediConnect" />
+  </a>
+  <a href="https://github.com/ku28/Elevatr">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ku28&repo=Elevatr&theme=radical&hide_border=true" alt="Elevatr" />
+  </a>
+  <a href="https://github.com/ku28/CompileX">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ku28&repo=CompileX&theme=radical&hide_border=true" alt="CompileX" />
+  </a>
+  <a href="https://github.com/ku28/Apparel-Arcade">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ku28&repo=Apparel-Arcade&theme=radical&hide_border=true" alt="Apparel Arcade" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kush-juneja/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://kushagrajuneja.vercel.app/)  
+- [MediConnect](https://github.com/ku28/MediConnect) streamlines real-time appointment workflows with doctor discovery and scalable APIs.
+- [Elevatr](https://github.com/ku28/Elevatr) blends AI-powered resume building with mock interview practice.
+- [Code Collab / CompileX](https://github.com/ku28/CompileX) focuses on real-time collaborative coding and multi-language execution.
+- [Apparel Arcade](https://github.com/ku28/Apparel-Arcade) delivers a smooth e-commerce experience with real-time inventory updates.
 
----
+## GitHub Analytics
 
-⭐️ *Feel free to explore my repositories and connect with me!*  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ku28&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ku28&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ku28&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ku28&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ku28&custom_title=Contribution%20Graph&bg_color=141321&color=f8f8f2&line=00e7ff&point=fe428e&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://kushagrajuneja.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-141321?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio live site" />
+  </a>
+  <a href="https://www.linkedin.com/in/kush-juneja/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn connect" />
+  </a>
+  <a href="mailto:kushagrajuneja7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
+  </a>
+</p>
